@@ -1,0 +1,38 @@
+Título,balance-electrico_01-2019_12-2019,,,,,,,,,,,
+Comunidades autónomas,COMUNIDAD DE MADRID,,,,,,,,,,,
+Magnitudes,MWh,,,,,,,,,,,
+ ,,,,,,,,,,,,
+ ,ene/19,feb/19,mar/19,abr/19,may/19,jun/19,jul/19,ago/19,sep/19,oct/19,nov/19,dic/19
+Hidráulica,"7255,261","7365,365","7916,29","9552,571","8793,242","9590,487","7660,623","6305,742","4911,483","4269,331","7635,876","15735,216"
+Solar fotovoltaica,"5146,445","6551,194","9032,505","7628,735","10747,47","10586,305","10375,872","9774,529","8009,285","6472,266","3916,796","3434,892"
+Otras renovables,"13467,019","13264,394","14549,112","12888,082","13359,963","14537,617","12972,72","12817,951","12928,104","13460,339","13674,454","14651,851"
+Residuos renovables,"7623,0325","7156,996","6290,7765","7359,627","6292,811","6373,761","6502,889","5030,9495","7633,6745","7535,193","7381,181","8122,877"
+Generación renovable,"33491,7575","34337,949","37788,6835","37429,015","39193,486000000004","41088,17","37512,104","33929,171500000004","33482,5465","31737,129","32608,307","41944,836"
+Cogeneración,"77809,264","60502,69","65113,937","77507,751","77220,71","69670,796","63514,519","66770,413","64734,085","74346,951","78013,19","68978,627"
+Residuos no renovables,"7623,0325","7156,996","6290,7765","7359,627","6292,811","6373,761","6502,889","5030,9495","7633,6745","7535,193","7381,181","8122,877"
+Generación no renovable,"85432,2965","67659,686","71404,7135","84867,378","83513,52100000001","76044,557","70017,408","71801,3625","72367,7595","81882,144","85394,371","77101,50399999999"
+Saldo de intercambios,"2625954,694","2254463,159","2240870,967","2095294,639","2026589,95","2164595,688","2544124,773","2168703,158","2043760,322","2153645,091","2349028,382","2426143,546"
+Demanda en b.c.,"2744878,748","2356460,7939999998","2350064,364","2217591,032","2149296,957","2281728,415","2651654,285","2274433,692","2149610,628","2267264,364","2467031,06","2545189,886"
+ ,,,,,,,,,,,,
+Notas,,,,,,,,,,,,
+ ,Balance eléctrico: asignación de unidades de producción según combustible principal.,,,,,,,,,,,
+ ,"Otras renovables: incluye biogás, biomasa, hidráulica marina y geotérmica.",,,,,,,,,,,
+ ,Los valores de incrementos y año móvil incluyen residuos hasta el 31/12/2014.,,,,,,,,,,,
+ ,Residuos renovables : generación incluida en otras renovables y cogeneración hasta el 31/12/2014.,,,,,,,,,,,
+ ,Turbinación de bombeo puro + estimación de turbinación de bombeo mixto.,,,,,,,,,,,
+ ,Ciclo combinado: Incluye funcionamiento en ciclo abierto.,,,,,,,,,,,
+ ,Fuel + Gas: En el sistema eléctrico nacional se incluye la generación con grupos auxiliares de Baleares.,,,,,,,,,,,
+ ,Cogeneración: los valores de incrementos y año móvil incluyen residuos hasta el 31/12/2014.,,,,,,,,,,,
+ ,Residuos no renovables: generación incluida en otras renovables y cogeneración hasta el 31/12/2014.,,,,,,,,,,,
+ ,Demanda corregida: corregidos los efectos de temperatura y laboralidad.,,,,,,,,,,,
+ ,Enlace Península-Baleares: Valor positivo - entrada de energía en el sistema; Valor negativo - salida de energía del sistema.,,,,,,,,,,,
+ ,Valor positivo: saldo importador; valor negativo: saldo exportador.,,,,,,,,,,,
+ ,Los valores de incrementos no se calculan cuando los saldos de intercambios tienen distinto signo.,,,,,,,,,,,
+ ,Demanda corregida: corregidos los efectos de temperatura y laboralidad.,,,,,,,,,,,
+ ,,,,,,,,,,,,
+Estados,,,,,,,,,,,,
+ ,Definitivo: 01/01/2019 - 31/12/2019,,,,,,,,,,,
+ ,,,,,,,,,,,,
+Fecha exportación,19/10/2021 - 19:19:34,,,,,,,,,,,
+ ,,,,,,,,,,,,
+Fuente,www.ree.es,,,,,,,,,,,
