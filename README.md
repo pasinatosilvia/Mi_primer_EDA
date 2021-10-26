@@ -1,4 +1,4 @@
-# EDA
+# EDA 🚀
 ### Ejercicio hecho para el Bootcamp en Data Science en The Bridge School
 Este proyecto se basa en una serie de análisis climatológicos de la Comunidad de Madrid para el año 2019.
 
@@ -8,7 +8,7 @@ El proyecto consta de :
 - una carpeta con todos los gráficos creados (src/visualizaciones/)
 - tres notebooks con pruebas varias y analisis inicial (src/notebooks/)
 - una serie de csv encontrados en la página de aemet, que me han servido para mi análisis (src/data/)
-- una presentación en formato powerpoint
+- una presentación hecha con Google Presentaciones y guardada en 3 formatos, por si hubiera problemas de compatibilidad de versiones (.fodp, .ppt, .pptx)
 - la memoria en formato pdf
 
 ## Herramientas utilizadas 🛠️
