@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><dc:date>2021-10-26T23:11:46.141000000</dc:date><meta:editing-duration>PT9M5S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.2.2.2$Windows_X86_64 LibreOffice_project/02b2acce88a210515b4a5bb2e46cbfb63fe97d56</meta:generator><meta:document-statistic meta:object-count="224"/></office:meta>
+ <office:meta><dc:date>2021-10-27T14:56:10.111000000</dc:date><meta:editing-duration>PT34M57S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:generator>LibreOffice/7.2.2.2$Windows_X86_64 LibreOffice_project/02b2acce88a210515b4a5bb2e46cbfb63fe97d56</meta:generator><meta:document-statistic meta:object-count="224"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">2230</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-7144</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-378</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">26288</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">26194</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">16555</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
@@ -29,15 +29,15 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">22</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">2230</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-7144</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">-378</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">26289</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">26195</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">16556</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
@@ -122,15 +122,15 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss"/>
   <style:font-face style:name="Arial1" svg:font-family="Arial"/>
-  <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Arial3" svg:font-family="Arial" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial3" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Arial4" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Lato" svg:font-family="Lato"/>
-  <style:font-face style:name="Lato1" svg:font-family="Lato" style:font-pitch="variable"/>
-  <style:font-face style:name="Lato2" svg:font-family="Lato" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Lato3" svg:font-family="Lato" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Lato" svg:font-family="Lato" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Lato1" svg:font-family="Lato"/>
+  <style:font-face style:name="Lato2" svg:font-family="Lato" style:font-pitch="variable"/>
+  <style:font-face style:name="Lato3" svg:font-family="Lato" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Lato4" svg:font-family="Lato" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
@@ -6684,7 +6684,7 @@
   <draw:stroke-dash draw:name="Long_20_Dot" draw:display-name="Long Dot" draw:style="rect" draw:dots1="1" draw:dots1-length="100%" draw:distance="300%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="es" fo:country="ES" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -7023,7 +7023,7 @@
      <style:tab-stop style:position="0cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato" fo:font-family="Lato" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Lato" style:font-family-asian="Lato" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-family-complex="Lato" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato1" fo:font-family="Lato" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-family-asian="Lato" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-family-complex="Lato" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
   </style:style>
   <style:style style:name="TITLE_5f_ONLY-background" style:display-name="TITLE_ONLY-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ffffff"/>
@@ -7657,7 +7657,7 @@
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="wrap" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
   <style:style style:name="gr8" style:family="graphic" style:parent-style-name="Objeto_20_sin_20_relleno_20_ni_20_línea">
-   <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="TITLE-backgroundobjects">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0cm" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="true" fo:min-height="8.287cm" fo:padding-top="0.254cm" fo:padding-bottom="0.254cm" fo:padding-left="0.254cm" fo:padding-right="0.254cm" fo:wrap-option="wrap"/>
@@ -7970,7 +7970,7 @@
      <style:tab-stop style:position="0cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato1" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -7979,7 +7979,7 @@
      <style:tab-stop style:position="0cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato1" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -7988,7 +7988,7 @@
      <style:tab-stop style:position="0cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:font-name-asian="Lato1" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -8037,6 +8037,7 @@
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="P32" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -8046,67 +8047,67 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Arial1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Arial1" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="52pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="52pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="52pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="52pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="52pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="52pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="28pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="28pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Tw Cen MT Condensed1" fo:font-size="28pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="28pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="26pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="26pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="26pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="26pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Lato" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#4285f4" loext:opacity="100%" style:font-name="Trebuchet MS1" fo:font-size="26pt" fo:language="es" fo:country="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Lato1" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Arial1" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="13.5pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="13.5pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="13.5pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="13.5pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato1" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato1" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="14pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato1" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Lato1" fo:font-size="8.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="8.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="8.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="35pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="35pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato" style:font-size-complex="35pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4285f4" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="35pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="35pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lato1" style:font-size-complex="35pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="italic" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Lato" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#595959" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Trebuchet MS1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="es" fo:country="none" fo:font-style="italic" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Lato1" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Lato1" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -10954,13 +10955,13 @@
     <draw:frame draw:name="Google Shape;130;p19" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="8.965cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">P_MES</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Precipitación total mensual/anual (mm)</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Precipitación total mensual (mm)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;131;p19" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">P_MAX</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Precipitación máxima diaria del mes/año y fecha (mm)</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Precipitación máxima diaria del mes (mm)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;132;p19" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.894cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -12797,13 +12798,13 @@
     <draw:frame draw:name="Google Shape;139;p20" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="8.965cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">NP_001</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de precipitación apreciable (≥ 0,1 mm) en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de precipitación apreciable (≥ 0,1 mm) en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;140;p20" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">NP_010 </text:span><text:span text:style-name="T15"><text:s text:c="2"/></text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 1mm en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 1mm en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;141;p20" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -14715,13 +14716,13 @@
     <draw:frame draw:name="Google Shape;148;p21" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">NP_100</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 10mm en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 10mm en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;149;p21" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">NP_300</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 30mm en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de precipitación mayor o igual que 30mm en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;150;p21" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -16134,13 +16135,13 @@
     <draw:frame draw:name="Google Shape;157;p22" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">N_LLU</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de lluvia en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de lluvia en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;158;p22" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.162cm" svg:y="10.109cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">N_NIE</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T15">Nº de días de nieve en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T15">Nº de días de nieve en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;159;p22" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -17821,13 +17822,13 @@
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T20"/></text:p>
       <text:p text:style-name="P15"><text:span text:style-name="T19">N_GRA</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de granizo en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de granizo en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;167;p23" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">N_TOR</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de tormenta en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días de tormenta en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;168;p23" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.835cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -19635,13 +19636,13 @@
     <draw:frame draw:name="Google Shape;175;p24" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">N_FOG</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de niebla en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días de niebla en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;176;p24" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">N_DES</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días despejados en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días despejados en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;177;p24" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -21529,13 +21530,13 @@
     <draw:frame draw:name="Google Shape;184;p25" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">N_NUB <text:s text:c="3"/></text:span><text:span text:style-name="T15"><text:s/></text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días nubosos en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº de días nubosos en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;185;p25" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">N_CUB</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días cubiertos en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº de días cubiertos en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;186;p25" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -26881,13 +26882,13 @@
     <draw:frame draw:name="Google Shape;211;p28" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">TM_MES</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura media mensual/anual (°C)</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura media mensual (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;212;p28" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">TM_MAX</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura media mensual/anual de las máximas (°C)</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura media mensual de las máximas (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;213;p28" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -28729,13 +28730,13 @@
     <draw:frame draw:name="Google Shape;220;p29" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">TM_MIN</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura media mensual/anual de las mínimas (°C)</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura media mensual de las mínimas (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;221;p29" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">TA_MAX</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura máxima absoluta del mes/año y fecha (°C)</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura máxima absoluta del mes (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;222;p29" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -30521,13 +30522,13 @@
     <draw:frame draw:name="Google Shape;229;p30" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">TA_MIN </text:span><text:span text:style-name="T15"><text:s text:c="6"/></text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura mínima absoluta del mes/año y fecha (°C)</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura mínima absoluta del mes (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;230;p30" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">TS_MIN</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura mínima más alta del mes/año (°C)</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Temperatura mínima más alta del mes (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;231;p30" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.894cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -32362,13 +32363,13 @@
     <draw:frame draw:name="Google Shape;238;p31" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">TI_MAX</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura máxima más baja del mes/año (°C)</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Temperatura máxima más baja del mes (°C)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;239;p31" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">NT_30</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº días mes/año de temperatura máxima mayor o igual que 30°C</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº días mes de temperatura máxima mayor o igual que 30°C</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;240;p31" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
@@ -34193,7 +34194,7 @@
     <draw:frame draw:name="Google Shape;247;p32" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">NT_00</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº días mes/año de temperatura mínima menor o igual que 0°C</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº días mes de temperatura mínima menor o igual que 0°C</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;248;p32" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="12.115cm" svg:height="9.623cm" svg:x="0.935cm" svg:y="2.664cm">
@@ -35003,13 +35004,13 @@
     <draw:frame draw:name="Google Shape;254;p33" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="11.74cm" svg:height="1.389cm" svg:x="0.935cm" svg:y="12.731cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P15"><text:span text:style-name="T19">NW_55</text:span></text:p>
-      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº días de velocidad del viento mayor o igual a 55 Km/h en el mes/año</text:span></text:p>
+      <text:p text:style-name="P15"><text:span text:style-name="T15">Nº días de velocidad del viento mayor o igual a 55 Km/h en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;255;p33" presentation:style-name="pr19" draw:text-style-name="P26" draw:layer="layout" svg:width="10.982cm" svg:height="1.532cm" svg:x="14.27cm" svg:y="10.058cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p text:style-name="P27"><text:span text:style-name="T19">NW_91</text:span></text:p>
-      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº días de velocidad del viento mayor o igual a 91 Km/h en el mes/año</text:span></text:p>
+      <text:p text:style-name="P27"><text:span text:style-name="T15">Nº días de velocidad del viento mayor o igual a 91 Km/h en el mes</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:name="Google Shape;256;p33" draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="11.777cm" svg:height="9.355cm" svg:x="0.423cm" svg:y="2.952cm">
